@@ -1,0 +1,2744 @@
+fileFormatVersion: 2
+guid: dbbb3018945c2c740b4aceafee984b1d
+timeCreated: 1522248204
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rash_0
+    21300002: rash_1
+    21300004: rash_2
+    21300006: rash_3
+    21300008: rash_4
+    21300010: rash_5
+    21300012: rash_6
+    21300014: rash_7
+    21300016: rash_8
+    21300018: rash_9
+    21300020: rash_10
+    21300022: rash_11
+    21300024: rash_12
+    21300026: rash_13
+    21300028: rash_14
+    21300030: rash_15
+    21300032: rash_16
+    21300034: rash_17
+    21300036: rash_18
+    21300038: rash_19
+    21300040: rash_20
+    21300042: rash_21
+    21300044: rash_22
+    21300046: rash_23
+    21300048: rash_24
+    21300050: rash_25
+    21300052: rash_26
+    21300054: rash_27
+    21300056: rash_28
+    21300058: rash_29
+    21300060: rash_30
+    21300062: rash_31
+    21300064: rash_32
+    21300066: rash_33
+    21300068: rash_34
+    21300070: rash_35
+    21300072: rash_36
+    21300074: rash_37
+    21300076: rash_38
+    21300078: rash_39
+    21300080: rash_40
+    21300082: rash_41
+    21300084: rash_42
+    21300086: rash_43
+    21300088: rash_44
+    21300090: rash_45
+    21300092: rash_46
+    21300094: rash_47
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rash_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 483
+        width: 49
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 484
+        width: 49
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 483
+        width: 50
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 484
+        width: 47
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 482
+        width: 47
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 483
+        width: 46
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 485
+        width: 45
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 483
+        width: 47
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_8
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 480
+        width: 49
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_9
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 479
+        width: 54
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_10
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 480
+        width: 54
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_11
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 484
+        width: 53
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 323
+        width: 76
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 323
+        width: 74
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 323
+        width: 69
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 322
+        width: 43
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_16
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 322
+        width: 48
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_17
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 323
+        width: 58
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_18
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 325
+        width: 84
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_19
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 325
+        width: 78
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_20
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 326
+        width: 68
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_21
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 326
+        width: 43
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_22
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 327
+        width: 43
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_23
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 326
+        width: 65
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 163
+        width: 77
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 76
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_26
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 160
+        width: 68
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 160
+        width: 43
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 160
+        width: 44
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 161
+        width: 59
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_30
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 162
+        width: 82
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_31
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 162
+        width: 79
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_32
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 163
+        width: 75
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_33
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 163
+        width: 47
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_34
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 164
+        width: 40
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_35
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 164
+        width: 65
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 8
+        width: 48
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_37
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 9
+        width: 47
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 9
+        width: 46
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_39
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 8
+        width: 47
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_40
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 4
+        width: 47
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_41
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 6
+        width: 44
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_42
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 4
+        width: 44
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_43
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 7
+        width: 43
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_44
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 8
+        width: 44
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_45
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 9
+        width: 44
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_46
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 9
+        width: 45
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rash_47
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 15
+        width: 44
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -153, y: -164.5}
+      - {x: -168, y: -190.5}
+      - {x: -168, y: -256.5}
+      - {x: -160, y: -313.5}
+      - {x: -154, y: -315.5}
+      - {x: -132, y: -315.5}
+      - {x: -117, y: -281.5}
+      - {x: -117, y: -201.5}
+      - {x: -129, y: -164.5}
+    - - {x: 54, y: -163.5}
+      - {x: 26, y: -163.5}
+      - {x: 24, y: -164.5}
+      - {x: 24, y: -308.5}
+      - {x: 36, y: -315.5}
+      - {x: 60, y: -315.5}
+      - {x: 72, y: -280.5}
+      - {x: 72, y: -178.5}
+      - {x: 71, y: -177.5}
+    - - {x: -58, y: -164.5}
+      - {x: -72, y: -192.5}
+      - {x: -72, y: -249.5}
+      - {x: -60, y: -310.5}
+      - {x: -58, y: -313.5}
+      - {x: -37, y: -313.5}
+      - {x: -24, y: -285.5}
+      - {x: -24, y: -181.5}
+      - {x: -34, y: -164.5}
+    - - {x: 140, y: -164.5}
+      - {x: 125, y: -169.5}
+      - {x: 119, y: -191.5}
+      - {x: 119, y: -278.5}
+      - {x: 128, y: -312.5}
+      - {x: 157, y: -312.5}
+      - {x: 166, y: -269.5}
+      - {x: 166, y: -183.5}
+      - {x: 155, y: -164.5}
+    - - {x: -534, y: -163.5}
+      - {x: -552, y: -177.5}
+      - {x: -552, y: -283.5}
+      - {x: -545, y: -311.5}
+      - {x: -510, y: -311.5}
+      - {x: -500, y: -258.5}
+      - {x: -500, y: -183.5}
+      - {x: -515, y: -163.5}
+    - - {x: -260, y: -164.5}
+      - {x: -265, y: -180.5}
+      - {x: -265, y: -289.5}
+      - {x: -249, y: -307.5}
+      - {x: -242, y: -311.5}
+      - {x: -226, y: -311.5}
+      - {x: -214, y: -280.5}
+      - {x: -214, y: -186.5}
+      - {x: -218, y: -164.5}
+    - - {x: 254, y: -163.5}
+      - {x: 215, y: -163.5}
+      - {x: 215, y: -310.5}
+      - {x: 224, y: -311.5}
+      - {x: 238, y: -311.5}
+      - {x: 252, y: -298.5}
+      - {x: 263, y: -252.5}
+      - {x: 263, y: -186.5}
+    - - {x: -443, y: -164.5}
+      - {x: -455, y: -166.5}
+      - {x: -457, y: -177.5}
+      - {x: -457, y: -302.5}
+      - {x: -443, y: -310.5}
+      - {x: -422, y: -310.5}
+      - {x: -406, y: -275.5}
+      - {x: -406, y: -197.5}
+      - {x: -413, y: -164.5}
+    - - {x: -323, y: -164.5}
+      - {x: -338, y: -164.5}
+      - {x: -349, y: -173.5}
+      - {x: -358, y: -199.5}
+      - {x: -360, y: -222.5}
+      - {x: -360, y: -257.5}
+      - {x: -341, y: -309.5}
+      - {x: -335, y: -310.5}
+      - {x: -325, y: -310.5}
+      - {x: -321, y: -309.5}
+      - {x: -310, y: -257.5}
+      - {x: -310, y: -200.5}
+    - - {x: 330, y: -163.5}
+      - {x: 320, y: -172.5}
+      - {x: 309, y: -208.5}
+      - {x: 309, y: -239.5}
+      - {x: 318, y: -309.5}
+      - {x: 319, y: -310.5}
+      - {x: 347, y: -310.5}
+      - {x: 357, y: -274.5}
+      - {x: 357, y: -183.5}
+      - {x: 342, y: -163.5}
+    - - {x: 453, y: -192.5}
+      - {x: 448, y: -163.5}
+      - {x: 419, y: -163.5}
+      - {x: 404, y: -187.5}
+      - {x: 404, y: -251.5}
+      - {x: 408, y: -308.5}
+      - {x: 415, y: -310.5}
+      - {x: 429, y: -310.5}
+      - {x: 434, y: -306.5}
+      - {x: 438, y: -302.5}
+      - {x: 453, y: -280.5}
+    - - {x: 515, y: -163.5}
+      - {x: 500, y: -191.5}
+      - {x: 500, y: -252.5}
+      - {x: 511, y: -301.5}
+      - {x: 517, y: -304.5}
+      - {x: 532, y: -304.5}
+      - {x: 548, y: -272.5}
+      - {x: 548, y: -195.5}
+      - {x: 538, y: -163.5}
+    - - {x: -66, y: -181.5}
+      - {x: -66, y: -187.5}
+      - {x: -61, y: -187.5}
+      - {x: -60, y: -186.5}
+      - {x: -60, y: -181.5}
+    - - {x: -473, y: -73.5}
+      - {x: -473, y: -154.5}
+      - {x: -468, y: -159.5}
+      - {x: -448, y: -159.5}
+      - {x: -444, y: -157.5}
+      - {x: -436, y: -159.5}
+      - {x: -393, y: -159.5}
+      - {x: -393, y: -58.5}
+      - {x: -402, y: -8.5}
+      - {x: -420, y: -4.5}
+      - {x: -429, y: -4.5}
+      - {x: -455, y: -12.5}
+    - - {x: -349, y: -4.5}
+      - {x: -377, y: -100.5}
+      - {x: -377, y: -159.5}
+      - {x: -305, y: -159.5}
+      - {x: -305, y: -101.5}
+      - {x: -318, y: -14.5}
+      - {x: -328, y: -4.5}
+    - - {x: -253, y: -2.5}
+      - {x: -270, y: -37.5}
+      - {x: -270, y: -134.5}
+      - {x: -262, y: -159.5}
+      - {x: -223, y: -159.5}
+      - {x: -223, y: -2.5}
+    - - {x: -153, y: -2.5}
+      - {x: -174, y: -52.5}
+      - {x: -174, y: -111.5}
+      - {x: -164, y: -159.5}
+      - {x: -126, y: -159.5}
+      - {x: -126, y: -5.5}
+      - {x: -129, y: -2.5}
+    - - {x: -48, y: -115.5}
+      - {x: -47, y: -113.5}
+      - {x: -49, y: -117.5}
+      - {x: -49, y: -122.5}
+      - {x: -48, y: -135.5}
+      - {x: -46, y: -150.5}
+      - {x: -43, y: -156.5}
+      - {x: -40, y: -158.5}
+      - {x: -15, y: -158.5}
+      - {x: -15, y: -3.5}
+      - {x: -21, y: -2.5}
+      - {x: -61, y: -2.5}
+      - {x: -78, y: -44.5}
+      - {x: -78, y: -158.5}
+      - {x: -51, y: -158.5}
+      - {x: -47, y: -155.5}
+      - {x: -46, y: -150.5}
+      - {x: -52, y: -119.5}
+    - - {x: 29, y: -3.5}
+      - {x: 9, y: -63.5}
+      - {x: 9, y: -157.5}
+      - {x: 91, y: -157.5}
+      - {x: 91, y: -76.5}
+      - {x: 65, y: -3.5}
+    - - {x: 94, y: -157.5}
+      - {x: 177, y: -157.5}
+      - {x: 177, y: -67.5}
+      - {x: 167, y: -3.5}
+      - {x: 117, y: -3.5}
+      - {x: 94, y: -57.5}
+    - - {x: -505, y: -4.5}
+      - {x: -544, y: -4.5}
+      - {x: -545, y: -5.5}
+      - {x: -564, y: -108.5}
+      - {x: -564, y: -156.5}
+      - {x: -486, y: -156.5}
+      - {x: -483, y: -155.5}
+      - {x: -483, y: -87.5}
+    - - {x: 266, y: -156.5}
+      - {x: 266, y: -18.5}
+      - {x: 255, y: -4.5}
+      - {x: 248, y: -3.5}
+      - {x: 233, y: -3.5}
+      - {x: 222, y: -11.5}
+      - {x: 205, y: -72.5}
+      - {x: 191, y: -119.5}
+      - {x: 191, y: -155.5}
+      - {x: 197, y: -156.5}
+      - {x: 204, y: -156.5}
+      - {x: 211, y: -155.5}
+      - {x: 212, y: -144.5}
+      - {x: 227, y: -131.5}
+      - {x: 238, y: -156.5}
+    - - {x: 324, y: -2.5}
+      - {x: 303, y: -66.5}
+      - {x: 303, y: -146.5}
+      - {x: 313, y: -156.5}
+      - {x: 347, y: -156.5}
+      - {x: 351, y: -155.5}
+      - {x: 354, y: -152.5}
+      - {x: 354, y: -2.5}
+    - - {x: 403, y: -4.5}
+      - {x: 403, y: -154.5}
+      - {x: 405, y: -155.5}
+      - {x: 440, y: -155.5}
+      - {x: 447, y: -149.5}
+      - {x: 447, y: -4.5}
+    - - {x: 493, y: -151.5}
+      - {x: 502, y: -155.5}
+      - {x: 520, y: -155.5}
+      - {x: 525, y: -153.5}
+      - {x: 522, y: -145.5}
+      - {x: 532, y: -155.5}
+      - {x: 562, y: -155.5}
+      - {x: 562, y: -29.5}
+      - {x: 560, y: -0.5}
+      - {x: 524, y: -0.5}
+      - {x: 493, y: -53.5}
+    - - {x: 187, y: -142.5}
+      - {x: 187, y: -147.5}
+      - {x: 188, y: -149.5}
+      - {x: 192, y: -149.5}
+      - {x: 194, y: -148.5}
+      - {x: 194, y: -142.5}
+    - - {x: 89, y: -91.5}
+      - {x: 90, y: -94.5}
+      - {x: 93, y: -94.5}
+      - {x: 95, y: -92.5}
+      - {x: 94, y: -89.5}
+      - {x: 91, y: -89.5}
+    - - {x: -236, y: 160.5}
+      - {x: -252, y: 160.5}
+      - {x: -255, y: 157.5}
+      - {x: -255, y: 2.5}
+      - {x: -208, y: 2.5}
+      - {x: -208, y: 124.5}
+      - {x: -222, y: 152.5}
+    - - {x: -158, y: 160.5}
+      - {x: -161, y: 156.5}
+      - {x: -161, y: 2.5}
+      - {x: -119, y: 2.5}
+      - {x: -112, y: 19.5}
+      - {x: -112, y: 127.5}
+      - {x: -132, y: 160.5}
+    - - {x: -504, y: 146.5}
+      - {x: -514, y: 157.5}
+      - {x: -539, y: 157.5}
+      - {x: -565, y: 92.5}
+      - {x: -565, y: 3.5}
+      - {x: -485, y: 3.5}
+      - {x: -485, y: 57.5}
+      - {x: -488, y: 71.5}
+    - - {x: -422, y: 158.5}
+      - {x: -436, y: 158.5}
+      - {x: -452, y: 146.5}
+      - {x: -459, y: 79.5}
+      - {x: -460, y: 60.5}
+      - {x: -449, y: 56.5}
+      - {x: -448, y: 59.5}
+      - {x: -456, y: 28.5}
+      - {x: -466, y: 12.5}
+      - {x: -466, y: 3.5}
+      - {x: -393, y: 3.5}
+      - {x: -388, y: 12.5}
+      - {x: -388, y: 40.5}
+      - {x: -417, y: 152.5}
+    - - {x: -291, y: 113.5}
+      - {x: -323, y: 157.5}
+      - {x: -341, y: 157.5}
+      - {x: -357, y: 156.5}
+      - {x: -364, y: 80.5}
+      - {x: -364, y: 3.5}
+      - {x: -332, y: 3.5}
+      - {x: -330, y: 8.5}
+      - {x: -316, y: 3.5}
+      - {x: -291, y: 3.5}
+    - - {x: -80, y: 3.5}
+      - {x: -63, y: 3.5}
+      - {x: -51, y: 5.5}
+      - {x: -46, y: 33.5}
+      - {x: -46, y: 36.5}
+      - {x: -42, y: 19.5}
+      - {x: -50, y: 11.5}
+      - {x: -49, y: 7.5}
+      - {x: -46, y: 3.5}
+      - {x: -18, y: 3.5}
+      - {x: -18, y: 135.5}
+      - {x: -23, y: 158.5}
+      - {x: -68, y: 158.5}
+      - {x: -80, y: 40.5}
+    - - {x: 53, y: 158.5}
+      - {x: 34, y: 158.5}
+      - {x: 22, y: 152.5}
+      - {x: 4, y: 54.5}
+      - {x: 4, y: 5.5}
+      - {x: 84, y: 5.5}
+      - {x: 84, y: 71.5}
+      - {x: 61, y: 156.5}
+    - - {x: 110, y: 97.5}
+      - {x: 110, y: 5.5}
+      - {x: 188, y: 5.5}
+      - {x: 188, y: 76.5}
+      - {x: 184, y: 92.5}
+      - {x: 154, y: 158.5}
+      - {x: 131, y: 158.5}
+      - {x: 121, y: 150.5}
+    - - {x: 223, y: 158.5}
+      - {x: 212, y: 143.5}
+      - {x: 212, y: 6.5}
+      - {x: 284, y: 6.5}
+      - {x: 284, y: 81.5}
+      - {x: 254, y: 158.5}
+    - - {x: 365, y: 85.5}
+      - {x: 365, y: 92.5}
+      - {x: 353, y: 151.5}
+      - {x: 337, y: 159.5}
+      - {x: 320, y: 159.5}
+      - {x: 318, y: 155.5}
+      - {x: 318, y: 29.5}
+      - {x: 319, y: 14.5}
+      - {x: 322, y: 6.5}
+      - {x: 352, y: 6.5}
+      - {x: 365, y: 19.5}
+      - {x: 365, y: 31.5}
+      - {x: 364, y: 35.5}
+    - - {x: 508, y: 158.5}
+      - {x: 501, y: 150.5}
+      - {x: 489, y: 76.5}
+      - {x: 489, y: 6.5}
+      - {x: 550, y: 6.5}
+      - {x: 558, y: 8.5}
+      - {x: 558, y: 124.5}
+      - {x: 537, y: 158.5}
+    - - {x: 443, y: 159.5}
+      - {x: 413, y: 159.5}
+      - {x: 413, y: 17.5}
+      - {x: 419, y: 7.5}
+      - {x: 457, y: 7.5}
+      - {x: 457, y: 138.5}
+      - {x: 451, y: 154.5}
+    - - {x: -2, y: 17.5}
+      - {x: -4, y: 15.5}
+      - {x: -4, y: 13.5}
+      - {x: -2, y: 11.5}
+      - {x: 0, y: 11.5}
+      - {x: 2, y: 13.5}
+      - {x: 2, y: 15.5}
+      - {x: 0, y: 17.5}
+    - - {x: -114, y: 26.5}
+      - {x: -112, y: 24.5}
+      - {x: -109, y: 25.5}
+      - {x: -109, y: 28.5}
+      - {x: -111, y: 30.5}
+      - {x: -114, y: 29.5}
+    - - {x: 1, y: 71.5}
+      - {x: 2, y: 68.5}
+      - {x: 5, y: 68.5}
+      - {x: 7, y: 70.5}
+      - {x: 6, y: 73.5}
+      - {x: 3, y: 73.5}
+    - - {x: 186, y: 110.5}
+      - {x: 186, y: 109.5}
+      - {x: 189, y: 106.5}
+      - {x: 192, y: 107.5}
+      - {x: 192, y: 110.5}
+      - {x: 190, y: 112.5}
+      - {x: 188, y: 112.5}
+    - - {x: 412, y: 131.5}
+      - {x: 410, y: 129.5}
+      - {x: 410, y: 127.5}
+      - {x: 412, y: 125.5}
+      - {x: 414, y: 125.5}
+      - {x: 416, y: 127.5}
+      - {x: 416, y: 129.5}
+      - {x: 414, y: 131.5}
+    - - {x: 308, y: 212.5}
+      - {x: 310, y: 213.5}
+      - {x: 307, y: 170.5}
+      - {x: 318, y: 159.5}
+      - {x: 353, y: 159.5}
+      - {x: 363, y: 187.5}
+      - {x: 363, y: 310.5}
+      - {x: 359, y: 316.5}
+      - {x: 320, y: 316.5}
+      - {x: 305, y: 290.5}
+      - {x: 305, y: 215.5}
+    - - {x: 212, y: 160.5}
+      - {x: 244, y: 160.5}
+      - {x: 265, y: 191.5}
+      - {x: 265, y: 298.5}
+      - {x: 260, y: 313.5}
+      - {x: 253, y: 315.5}
+      - {x: 225, y: 315.5}
+      - {x: 212, y: 310.5}
+    - - {x: 402, y: 316.5}
+      - {x: 402, y: 160.5}
+      - {x: 449, y: 160.5}
+      - {x: 460, y: 188.5}
+      - {x: 460, y: 268.5}
+      - {x: 442, y: 316.5}
+    - - {x: -157, y: 315.5}
+      - {x: -169, y: 281.5}
+      - {x: -169, y: 184.5}
+      - {x: -163, y: 162.5}
+      - {x: -137, y: 162.5}
+      - {x: -118, y: 207.5}
+      - {x: -118, y: 292.5}
+      - {x: -130, y: 315.5}
+    - - {x: -532, y: 317.5}
+      - {x: -535, y: 315.5}
+      - {x: -555, y: 299.5}
+      - {x: -555, y: 181.5}
+      - {x: -547, y: 163.5}
+      - {x: -513, y: 163.5}
+      - {x: -510, y: 166.5}
+      - {x: -502, y: 223.5}
+      - {x: -502, y: 298.5}
+      - {x: -518, y: 317.5}
+    - - {x: -356, y: 315.5}
+      - {x: -363, y: 285.5}
+      - {x: -363, y: 183.5}
+      - {x: -359, y: 176.5}
+      - {x: -346, y: 163.5}
+      - {x: -319, y: 163.5}
+      - {x: -309, y: 214.5}
+      - {x: -309, y: 302.5}
+      - {x: -325, y: 315.5}
+    - - {x: -54, y: 315.5}
+      - {x: -60, y: 314.5}
+      - {x: -73, y: 282.5}
+      - {x: -73, y: 192.5}
+      - {x: -69, y: 163.5}
+      - {x: -45, y: 163.5}
+      - {x: -23, y: 215.5}
+      - {x: -23, y: 293.5}
+      - {x: -31, y: 315.5}
+    - - {x: 117, y: 315.5}
+      - {x: 117, y: 163.5}
+      - {x: 149, y: 163.5}
+      - {x: 168, y: 223.5}
+      - {x: 168, y: 293.5}
+      - {x: 152, y: 315.5}
+    - - {x: -419, y: 315.5}
+      - {x: -447, y: 315.5}
+      - {x: -459, y: 259.5}
+      - {x: -459, y: 199.5}
+      - {x: -439, y: 164.5}
+      - {x: -416, y: 164.5}
+      - {x: -406, y: 224.5}
+      - {x: -406, y: 289.5}
+      - {x: -416, y: 314.5}
+    - - {x: -226, y: 315.5}
+      - {x: -257, y: 315.5}
+      - {x: -265, y: 280.5}
+      - {x: -265, y: 182.5}
+      - {x: -260, y: 164.5}
+      - {x: -231, y: 164.5}
+      - {x: -214, y: 238.5}
+      - {x: -214, y: 287.5}
+      - {x: -224, y: 314.5}
+    - - {x: 512, y: 316.5}
+      - {x: 498, y: 282.5}
+      - {x: 498, y: 222.5}
+      - {x: 509, y: 164.5}
+      - {x: 546, y: 164.5}
+      - {x: 555, y: 179.5}
+      - {x: 555, y: 283.5}
+      - {x: 540, y: 316.5}
+    - - {x: 35, y: 315.5}
+      - {x: 25, y: 285.5}
+      - {x: 25, y: 205.5}
+      - {x: 38, y: 165.5}
+      - {x: 53, y: 165.5}
+      - {x: 58, y: 169.5}
+      - {x: 74, y: 231.5}
+      - {x: 74, y: 278.5}
+      - {x: 64, y: 315.5}
+    physicsShape:
+    - - {x: -124, y: -257.5}
+      - {x: -120, y: -255.5}
+      - {x: -119, y: -246.5}
+      - {x: -119, y: -225.5}
+      - {x: -121, y: -215.5}
+      - {x: -124, y: -197.5}
+      - {x: -134, y: -190.5}
+      - {x: -131, y: -181.5}
+      - {x: -132, y: -172.5}
+      - {x: -138, y: -166.5}
+      - {x: -145, y: -166.5}
+      - {x: -155, y: -173.5}
+      - {x: -154, y: -189.5}
+      - {x: -161, y: -197.5}
+      - {x: -166, y: -223.5}
+      - {x: -167, y: -230.5}
+      - {x: -167, y: -243.5}
+      - {x: -166, y: -250.5}
+      - {x: -158, y: -262.5}
+      - {x: -156, y: -272.5}
+      - {x: -155, y: -295.5}
+      - {x: -149, y: -309.5}
+      - {x: -143, y: -314.5}
+      - {x: -137, y: -314.5}
+      - {x: -131, y: -311.5}
+      - {x: -133, y: -301.5}
+      - {x: -128, y: -286.5}
+      - {x: -128, y: -268.5}
+    - - {x: 71, y: -224.5}
+      - {x: 69, y: -208.5}
+      - {x: 67, y: -200.5}
+      - {x: 62, y: -195.5}
+      - {x: 60, y: -175.5}
+      - {x: 54, y: -165.5}
+      - {x: 46, y: -165.5}
+      - {x: 36, y: -173.5}
+      - {x: 37, y: -192.5}
+      - {x: 33, y: -193.5}
+      - {x: 27, y: -203.5}
+      - {x: 25, y: -212.5}
+      - {x: 25, y: -242.5}
+      - {x: 33, y: -249.5}
+      - {x: 34, y: -287.5}
+      - {x: 36, y: -311.5}
+      - {x: 44, y: -314.5}
+      - {x: 52, y: -314.5}
+      - {x: 60, y: -299.5}
+      - {x: 64, y: -271.5}
+      - {x: 71, y: -251.5}
+    - - {x: -32, y: -278.5}
+      - {x: -32, y: -269.5}
+      - {x: -25, y: -243.5}
+      - {x: -25, y: -221.5}
+      - {x: -28, y: -198.5}
+      - {x: -39, y: -189.5}
+      - {x: -36, y: -188.5}
+      - {x: -35, y: -173.5}
+      - {x: -42, y: -165.5}
+      - {x: -51, y: -165.5}
+      - {x: -59, y: -173.5}
+      - {x: -59, y: -185.5}
+      - {x: -65, y: -197.5}
+      - {x: -70, y: -217.5}
+      - {x: -70, y: -247.5}
+      - {x: -62, y: -250.5}
+      - {x: -61, y: -285.5}
+      - {x: -58, y: -303.5}
+      - {x: -53, y: -311.5}
+      - {x: -44, y: -311.5}
+      - {x: -40, y: -309.5}
+      - {x: -35, y: -306.5}
+      - {x: -35, y: -286.5}
+    - - {x: 165, y: -258.5}
+      - {x: 165, y: -238.5}
+      - {x: 162, y: -201.5}
+      - {x: 160, y: -196.5}
+      - {x: 153, y: -186.5}
+      - {x: 155, y: -177.5}
+      - {x: 155, y: -170.5}
+      - {x: 147, y: -165.5}
+      - {x: 140, y: -165.5}
+      - {x: 132, y: -172.5}
+      - {x: 131, y: -188.5}
+      - {x: 125, y: -197.5}
+      - {x: 120, y: -211.5}
+      - {x: 120, y: -230.5}
+      - {x: 127, y: -239.5}
+      - {x: 129, y: -273.5}
+      - {x: 130, y: -295.5}
+      - {x: 133, y: -309.5}
+      - {x: 135, y: -311.5}
+      - {x: 141, y: -311.5}
+      - {x: 146, y: -309.5}
+      - {x: 150, y: -297.5}
+      - {x: 156, y: -285.5}
+      - {x: 157, y: -265.5}
+    - - {x: -502, y: -208.5}
+      - {x: -507, y: -198.5}
+      - {x: -516, y: -189.5}
+      - {x: -511, y: -175.5}
+      - {x: -520, y: -165.5}
+      - {x: -527, y: -165.5}
+      - {x: -536, y: -174.5}
+      - {x: -545, y: -200.5}
+      - {x: -550, y: -221.5}
+      - {x: -550, y: -244.5}
+      - {x: -546, y: -251.5}
+      - {x: -541, y: -248.5}
+      - {x: -539, y: -246.5}
+      - {x: -539, y: -242.5}
+      - {x: -539, y: -255.5}
+      - {x: -541, y: -273.5}
+      - {x: -541, y: -293.5}
+      - {x: -530, y: -309.5}
+      - {x: -522, y: -309.5}
+      - {x: -516, y: -299.5}
+      - {x: -510, y: -263.5}
+      - {x: -502, y: -253.5}
+    - - {x: -224, y: -255.5}
+      - {x: -218, y: -254.5}
+      - {x: -216, y: -249.5}
+      - {x: -216, y: -218.5}
+      - {x: -218, y: -200.5}
+      - {x: -223, y: -194.5}
+      - {x: -229, y: -187.5}
+      - {x: -227, y: -178.5}
+      - {x: -228, y: -172.5}
+      - {x: -236, y: -166.5}
+      - {x: -243, y: -166.5}
+      - {x: -251, y: -172.5}
+      - {x: -255, y: -192.5}
+      - {x: -258, y: -199.5}
+      - {x: -263, y: -228.5}
+      - {x: -263, y: -239.5}
+      - {x: -262, y: -248.5}
+      - {x: -257, y: -252.5}
+      - {x: -255, y: -252.5}
+      - {x: -251, y: -248.5}
+      - {x: -251, y: -246.5}
+      - {x: -251, y: -261.5}
+      - {x: -250, y: -275.5}
+      - {x: -246, y: -290.5}
+      - {x: -244, y: -302.5}
+      - {x: -237, y: -309.5}
+      - {x: -232, y: -309.5}
+      - {x: -228, y: -307.5}
+      - {x: -230, y: -301.5}
+      - {x: -227, y: -279.5}
+    - - {x: 258, y: -259.5}
+      - {x: 261, y: -250.5}
+      - {x: 261, y: -225.5}
+      - {x: 257, y: -198.5}
+      - {x: 253, y: -194.5}
+      - {x: 248, y: -191.5}
+      - {x: 251, y: -175.5}
+      - {x: 244, y: -165.5}
+      - {x: 237, y: -165.5}
+      - {x: 227, y: -173.5}
+      - {x: 221, y: -193.5}
+      - {x: 217, y: -201.5}
+      - {x: 217, y: -230.5}
+      - {x: 224, y: -241.5}
+      - {x: 223, y: -262.5}
+      - {x: 223, y: -303.5}
+      - {x: 229, y: -309.5}
+      - {x: 235, y: -309.5}
+      - {x: 239, y: -305.5}
+      - {x: 246, y: -295.5}
+      - {x: 249, y: -280.5}
+    - - {x: 355, y: -251.5}
+      - {x: 355, y: -218.5}
+      - {x: 354, y: -210.5}
+      - {x: 352, y: -198.5}
+      - {x: 345, y: -186.5}
+      - {x: 347, y: -176.5}
+      - {x: 339, y: -165.5}
+      - {x: 331, y: -165.5}
+      - {x: 323, y: -172.5}
+      - {x: 322, y: -183.5}
+      - {x: 324, y: -192.5}
+      - {x: 316, y: -197.5}
+      - {x: 313, y: -202.5}
+      - {x: 310, y: -216.5}
+      - {x: 310, y: -224.5}
+      - {x: 315, y: -234.5}
+      - {x: 318, y: -243.5}
+      - {x: 318, y: -275.5}
+      - {x: 319, y: -291.5}
+      - {x: 322, y: -305.5}
+      - {x: 324, y: -309.5}
+      - {x: 331, y: -309.5}
+      - {x: 335, y: -308.5}
+      - {x: 344, y: -288.5}
+      - {x: 345, y: -270.5}
+      - {x: 345, y: -261.5}
+    - - {x: 451, y: -265.5}
+      - {x: 451, y: -222.5}
+      - {x: 449, y: -201.5}
+      - {x: 444, y: -195.5}
+      - {x: 440, y: -193.5}
+      - {x: 442, y: -176.5}
+      - {x: 436, y: -165.5}
+      - {x: 426, y: -165.5}
+      - {x: 418, y: -173.5}
+      - {x: 416, y: -179.5}
+      - {x: 409, y: -196.5}
+      - {x: 406, y: -205.5}
+      - {x: 406, y: -232.5}
+      - {x: 407, y: -247.5}
+      - {x: 414, y: -251.5}
+      - {x: 413, y: -290.5}
+      - {x: 415, y: -305.5}
+      - {x: 421, y: -309.5}
+      - {x: 427, y: -309.5}
+      - {x: 440, y: -301.5}
+      - {x: 436, y: -293.5}
+      - {x: 443, y: -264.5}
+    - - {x: -417, y: -261.5}
+      - {x: -407, y: -249.5}
+      - {x: -407, y: -209.5}
+      - {x: -409, y: -199.5}
+      - {x: -421, y: -190.5}
+      - {x: -418, y: -178.5}
+      - {x: -419, y: -171.5}
+      - {x: -428, y: -165.5}
+      - {x: -431, y: -165.5}
+      - {x: -440, y: -174.5}
+      - {x: -441, y: -185.5}
+      - {x: -449, y: -199.5}
+      - {x: -449, y: -209.5}
+      - {x: -455, y: -229.5}
+      - {x: -455, y: -240.5}
+      - {x: -454, y: -244.5}
+      - {x: -450, y: -249.5}
+      - {x: -448, y: -249.5}
+      - {x: -443, y: -246.5}
+      - {x: -444, y: -265.5}
+      - {x: -442, y: -285.5}
+      - {x: -437, y: -291.5}
+      - {x: -439, y: -302.5}
+      - {x: -434, y: -308.5}
+      - {x: -427, y: -308.5}
+      - {x: -422, y: -304.5}
+      - {x: -421, y: -300.5}
+      - {x: -422, y: -289.5}
+    - - {x: -319, y: -260.5}
+      - {x: -317, y: -256.5}
+      - {x: -312, y: -252.5}
+      - {x: -312, y: -214.5}
+      - {x: -315, y: -196.5}
+      - {x: -325, y: -190.5}
+      - {x: -323, y: -186.5}
+      - {x: -322, y: -176.5}
+      - {x: -328, y: -166.5}
+      - {x: -336, y: -166.5}
+      - {x: -346, y: -174.5}
+      - {x: -352, y: -198.5}
+      - {x: -358, y: -219.5}
+      - {x: -359, y: -234.5}
+      - {x: -359, y: -241.5}
+      - {x: -358, y: -248.5}
+      - {x: -351, y: -252.5}
+      - {x: -348, y: -248.5}
+      - {x: -347, y: -239.5}
+      - {x: -348, y: -256.5}
+      - {x: -346, y: -280.5}
+      - {x: -342, y: -298.5}
+      - {x: -339, y: -307.5}
+      - {x: -332, y: -308.5}
+      - {x: -326, y: -308.5}
+      - {x: -324, y: -306.5}
+      - {x: -325, y: -297.5}
+      - {x: -322, y: -274.5}
+    - - {x: 546, y: -245.5}
+      - {x: 546, y: -221.5}
+      - {x: 542, y: -197.5}
+      - {x: 538, y: -176.5}
+      - {x: 530, y: -165.5}
+      - {x: 522, y: -165.5}
+      - {x: 512, y: -171.5}
+      - {x: 501, y: -209.5}
+      - {x: 501, y: -230.5}
+      - {x: 504, y: -242.5}
+      - {x: 508, y: -246.5}
+      - {x: 511, y: -245.5}
+      - {x: 510, y: -252.5}
+      - {x: 509, y: -283.5}
+      - {x: 511, y: -298.5}
+      - {x: 522, y: -301.5}
+      - {x: 529, y: -301.5}
+      - {x: 533, y: -296.5}
+      - {x: 533, y: -285.5}
+      - {x: 545, y: -255.5}
+    - - {x: -128, y: -247.5}
+      - {x: -129, y: -253.5}
+      - {x: -128, y: -255.5}
+      - {x: -127, y: -254.5}
+    - - {x: 347, y: -248.5}
+      - {x: 346, y: -243.5}
+      - {x: 346, y: -247.5}
+      - {x: 347, y: -248.5}
+      - {x: 347, y: -247.5}
+      - {x: 345, y: -249.5}
+      - {x: 346, y: -249.5}
+    - - {x: -157, y: -235.5}
+      - {x: -157, y: -243.5}
+      - {x: -156, y: -243.5}
+    - - {x: -410, y: -122.5}
+      - {x: -413, y: -102.5}
+      - {x: -418, y: -79.5}
+      - {x: -407, y: -89.5}
+      - {x: -401, y: -87.5}
+      - {x: -405, y: -77.5}
+      - {x: -415, y: -55.5}
+      - {x: -420, y: -49.5}
+      - {x: -422, y: -35.5}
+      - {x: -418, y: -28.5}
+      - {x: -414, y: -16.5}
+      - {x: -426, y: -7.5}
+      - {x: -432, y: -7.5}
+      - {x: -435, y: -9.5}
+      - {x: -441, y: -15.5}
+      - {x: -440, y: -23.5}
+      - {x: -441, y: -32.5}
+      - {x: -448, y: -44.5}
+      - {x: -456, y: -81.5}
+      - {x: -451, y: -88.5}
+      - {x: -446, y: -89.5}
+      - {x: -449, y: -110.5}
+      - {x: -455, y: -116.5}
+      - {x: -472, y: -137.5}
+      - {x: -472, y: -140.5}
+      - {x: -471, y: -146.5}
+      - {x: -460, y: -155.5}
+      - {x: -451, y: -156.5}
+      - {x: -449, y: -150.5}
+      - {x: -455, y: -146.5}
+      - {x: -439, y: -123.5}
+      - {x: -431, y: -115.5}
+      - {x: -424, y: -154.5}
+      - {x: -418, y: -158.5}
+      - {x: -398, y: -158.5}
+      - {x: -395, y: -154.5}
+      - {x: -395, y: -146.5}
+      - {x: -409, y: -136.5}
+    - - {x: -235, y: -130.5}
+      - {x: -225, y: -118.5}
+      - {x: -225, y: -114.5}
+      - {x: -226, y: -98.5}
+      - {x: -226, y: -80.5}
+      - {x: -227, y: -58.5}
+      - {x: -231, y: -32.5}
+      - {x: -227, y: -31.5}
+      - {x: -224, y: -17.5}
+      - {x: -224, y: -12.5}
+      - {x: -230, y: -5.5}
+      - {x: -245, y: -5.5}
+      - {x: -251, y: -20.5}
+      - {x: -245, y: -26.5}
+      - {x: -255, y: -37.5}
+      - {x: -262, y: -56.5}
+      - {x: -265, y: -63.5}
+      - {x: -268, y: -71.5}
+      - {x: -268, y: -82.5}
+      - {x: -255, y: -91.5}
+      - {x: -253, y: -115.5}
+      - {x: -265, y: -132.5}
+      - {x: -267, y: -136.5}
+      - {x: -250, y: -158.5}
+      - {x: -226, y: -158.5}
+      - {x: -224, y: -155.5}
+      - {x: -224, y: -151.5}
+      - {x: -234, y: -145.5}
+    - - {x: -127, y: -116.5}
+      - {x: -127, y: -99.5}
+      - {x: -129, y: -87.5}
+      - {x: -131, y: -62.5}
+      - {x: -135, y: -38.5}
+      - {x: -130, y: -23.5}
+      - {x: -129, y: -14.5}
+      - {x: -135, y: -6.5}
+      - {x: -142, y: -5.5}
+      - {x: -148, y: -5.5}
+      - {x: -154, y: -13.5}
+      - {x: -152, y: -23.5}
+      - {x: -159, y: -35.5}
+      - {x: -164, y: -52.5}
+      - {x: -173, y: -69.5}
+      - {x: -173, y: -79.5}
+      - {x: -171, y: -85.5}
+      - {x: -167, y: -87.5}
+      - {x: -159, y: -89.5}
+      - {x: -157, y: -122.5}
+      - {x: -164, y: -133.5}
+      - {x: -164, y: -140.5}
+      - {x: -157, y: -147.5}
+      - {x: -156, y: -155.5}
+      - {x: -154, y: -157.5}
+      - {x: -147, y: -158.5}
+      - {x: -131, y: -158.5}
+      - {x: -128, y: -155.5}
+      - {x: -130, y: -149.5}
+      - {x: -140, y: -129.5}
+    - - {x: -316, y: -145.5}
+      - {x: -319, y: -127.5}
+      - {x: -317, y: -110.5}
+      - {x: -322, y: -85.5}
+      - {x: -316, y: -91.5}
+      - {x: -312, y: -90.5}
+      - {x: -314, y: -77.5}
+      - {x: -319, y: -70.5}
+      - {x: -323, y: -65.5}
+      - {x: -325, y: -45.5}
+      - {x: -327, y: -35.5}
+      - {x: -319, y: -24.5}
+      - {x: -321, y: -17.5}
+      - {x: -323, y: -14.5}
+      - {x: -328, y: -7.5}
+      - {x: -338, y: -7.5}
+      - {x: -347, y: -13.5}
+      - {x: -345, y: -32.5}
+      - {x: -351, y: -43.5}
+      - {x: -363, y: -76.5}
+      - {x: -363, y: -86.5}
+      - {x: -352, y: -90.5}
+      - {x: -364, y: -120.5}
+      - {x: -376, y: -131.5}
+      - {x: -376, y: -142.5}
+      - {x: -374, y: -151.5}
+      - {x: -362, y: -157.5}
+      - {x: -361, y: -157.5}
+      - {x: -358, y: -145.5}
+      - {x: -343, y: -127.5}
+      - {x: -338, y: -122.5}
+      - {x: -336, y: -154.5}
+      - {x: -333, y: -157.5}
+      - {x: -312, y: -157.5}
+      - {x: -306, y: -155.5}
+      - {x: -306, y: -151.5}
+      - {x: -309, y: -147.5}
+    - - {x: -54, y: -132.5}
+      - {x: -46, y: -112.5}
+      - {x: -47, y: -123.5}
+      - {x: -44, y: -150.5}
+      - {x: -43, y: -153.5}
+      - {x: -32, y: -154.5}
+      - {x: -23, y: -153.5}
+      - {x: -17, y: -149.5}
+      - {x: -17, y: -145.5}
+      - {x: -23, y: -140.5}
+      - {x: -30, y: -105.5}
+      - {x: -27, y: -83.5}
+      - {x: -36, y: -67.5}
+      - {x: -40, y: -35.5}
+      - {x: -34, y: -25.5}
+      - {x: -33, y: -14.5}
+      - {x: -40, y: -7.5}
+      - {x: -48, y: -5.5}
+      - {x: -58, y: -14.5}
+      - {x: -58, y: -21.5}
+      - {x: -71, y: -54.5}
+      - {x: -77, y: -65.5}
+      - {x: -77, y: -84.5}
+      - {x: -67, y: -86.5}
+      - {x: -76, y: -131.5}
+      - {x: -77, y: -142.5}
+      - {x: -77, y: -153.5}
+      - {x: -73, y: -157.5}
+      - {x: -51, y: -157.5}
+      - {x: -48, y: -154.5}
+      - {x: -50, y: -148.5}
+      - {x: -58, y: -146.5}
+    - - {x: 56, y: -132.5}
+      - {x: 65, y: -151.5}
+      - {x: 67, y: -152.5}
+      - {x: 73, y: -154.5}
+      - {x: 83, y: -148.5}
+      - {x: 90, y: -142.5}
+      - {x: 90, y: -136.5}
+      - {x: 76, y: -128.5}
+      - {x: 63, y: -103.5}
+      - {x: 62, y: -96.5}
+      - {x: 63, y: -84.5}
+      - {x: 62, y: -96.5}
+      - {x: 63, y: -102.5}
+      - {x: 66, y: -106.5}
+      - {x: 68, y: -108.5}
+      - {x: 76, y: -89.5}
+      - {x: 73, y: -81.5}
+      - {x: 62, y: -69.5}
+      - {x: 55, y: -43.5}
+      - {x: 58, y: -41.5}
+      - {x: 56, y: -33.5}
+      - {x: 62, y: -23.5}
+      - {x: 63, y: -13.5}
+      - {x: 54, y: -6.5}
+      - {x: 47, y: -5.5}
+      - {x: 36, y: -13.5}
+      - {x: 39, y: -23.5}
+      - {x: 24, y: -56.5}
+      - {x: 18, y: -75.5}
+      - {x: 20, y: -82.5}
+      - {x: 24, y: -95.5}
+      - {x: 19, y: -109.5}
+      - {x: 11, y: -140.5}
+      - {x: 11, y: -150.5}
+      - {x: 15, y: -155.5}
+      - {x: 24, y: -156.5}
+      - {x: 35, y: -156.5}
+      - {x: 40, y: -150.5}
+      - {x: 31, y: -145.5}
+      - {x: 42, y: -114.5}
+    - - {x: 137, y: -117.5}
+      - {x: 142, y: -111.5}
+      - {x: 145, y: -140.5}
+      - {x: 150, y: -155.5}
+      - {x: 173, y: -155.5}
+      - {x: 175, y: -151.5}
+      - {x: 175, y: -147.5}
+      - {x: 168, y: -144.5}
+      - {x: 164, y: -136.5}
+      - {x: 166, y: -119.5}
+      - {x: 163, y: -111.5}
+      - {x: 161, y: -99.5}
+      - {x: 167, y: -104.5}
+      - {x: 170, y: -103.5}
+      - {x: 167, y: -82.5}
+      - {x: 153, y: -69.5}
+      - {x: 153, y: -56.5}
+      - {x: 152, y: -50.5}
+      - {x: 151, y: -32.5}
+      - {x: 159, y: -26.5}
+      - {x: 158, y: -10.5}
+      - {x: 150, y: -6.5}
+      - {x: 142, y: -6.5}
+      - {x: 135, y: -10.5}
+      - {x: 131, y: -15.5}
+      - {x: 135, y: -29.5}
+      - {x: 129, y: -34.5}
+      - {x: 116, y: -65.5}
+      - {x: 114, y: -72.5}
+      - {x: 115, y: -83.5}
+      - {x: 119, y: -88.5}
+      - {x: 120, y: -102.5}
+      - {x: 120, y: -109.5}
+      - {x: 109, y: -118.5}
+      - {x: 96, y: -137.5}
+      - {x: 96, y: -142.5}
+      - {x: 106, y: -154.5}
+      - {x: 109, y: -155.5}
+      - {x: 116, y: -155.5}
+      - {x: 118, y: -149.5}
+      - {x: 114, y: -141.5}
+      - {x: 126, y: -129.5}
+    - - {x: 259, y: -122.5}
+      - {x: 259, y: -109.5}
+      - {x: 260, y: -103.5}
+      - {x: 265, y: -95.5}
+      - {x: 265, y: -94.5}
+      - {x: 252, y: -76.5}
+      - {x: 248, y: -66.5}
+      - {x: 248, y: -38.5}
+      - {x: 257, y: -14.5}
+      - {x: 246, y: -5.5}
+      - {x: 237, y: -5.5}
+      - {x: 234, y: -7.5}
+      - {x: 226, y: -14.5}
+      - {x: 229, y: -22.5}
+      - {x: 225, y: -35.5}
+      - {x: 223, y: -44.5}
+      - {x: 217, y: -55.5}
+      - {x: 210, y: -75.5}
+      - {x: 214, y: -86.5}
+      - {x: 220, y: -88.5}
+      - {x: 220, y: -100.5}
+      - {x: 223, y: -107.5}
+      - {x: 215, y: -111.5}
+      - {x: 203, y: -125.5}
+      - {x: 193, y: -130.5}
+      - {x: 193, y: -142.5}
+      - {x: 194, y: -149.5}
+      - {x: 203, y: -155.5}
+      - {x: 207, y: -155.5}
+      - {x: 211, y: -142.5}
+      - {x: 219, y: -133.5}
+      - {x: 228, y: -129.5}
+      - {x: 238, y: -118.5}
+      - {x: 234, y: -136.5}
+      - {x: 239, y: -155.5}
+      - {x: 249, y: -155.5}
+      - {x: 262, y: -154.5}
+      - {x: 265, y: -153.5}
+      - {x: 265, y: -150.5}
+      - {x: 258, y: -143.5}
+    - - {x: -529, y: -117.5}
+      - {x: -522, y: -131.5}
+      - {x: -507, y: -154.5}
+      - {x: -500, y: -154.5}
+      - {x: -493, y: -153.5}
+      - {x: -485, y: -144.5}
+      - {x: -485, y: -142.5}
+      - {x: -488, y: -139.5}
+      - {x: -504, y: -128.5}
+      - {x: -506, y: -117.5}
+      - {x: -511, y: -100.5}
+      - {x: -515, y: -81.5}
+      - {x: -515, y: -77.5}
+      - {x: -503, y: -85.5}
+      - {x: -498, y: -86.5}
+      - {x: -495, y: -83.5}
+      - {x: -495, y: -81.5}
+      - {x: -509, y: -56.5}
+      - {x: -515, y: -38.5}
+      - {x: -512, y: -28.5}
+      - {x: -512, y: -15.5}
+      - {x: -520, y: -9.5}
+      - {x: -525, y: -8.5}
+      - {x: -531, y: -10.5}
+      - {x: -536, y: -16.5}
+      - {x: -535, y: -28.5}
+      - {x: -543, y: -39.5}
+      - {x: -546, y: -49.5}
+      - {x: -554, y: -75.5}
+      - {x: -554, y: -87.5}
+      - {x: -553, y: -118.5}
+      - {x: -557, y: -125.5}
+      - {x: -561, y: -144.5}
+      - {x: -561, y: -150.5}
+      - {x: -559, y: -153.5}
+      - {x: -551, y: -154.5}
+      - {x: -536, y: -154.5}
+      - {x: -534, y: -149.5}
+      - {x: -536, y: -131.5}
+      - {x: -535, y: -121.5}
+    - - {x: 343, y: -126.5}
+      - {x: 348, y: -110.5}
+      - {x: 347, y: -77.5}
+      - {x: 343, y: -37.5}
+      - {x: 351, y: -20.5}
+      - {x: 351, y: -15.5}
+      - {x: 343, y: -4.5}
+      - {x: 333, y: -4.5}
+      - {x: 328, y: -6.5}
+      - {x: 322, y: -18.5}
+      - {x: 318, y: -44.5}
+      - {x: 311, y: -53.5}
+      - {x: 305, y: -68.5}
+      - {x: 310, y: -85.5}
+      - {x: 316, y: -83.5}
+      - {x: 320, y: -80.5}
+      - {x: 324, y: -109.5}
+      - {x: 305, y: -133.5}
+      - {x: 305, y: -138.5}
+      - {x: 309, y: -145.5}
+      - {x: 316, y: -153.5}
+      - {x: 321, y: -154.5}
+      - {x: 345, y: -154.5}
+      - {x: 348, y: -149.5}
+      - {x: 338, y: -143.5}
+    - - {x: 445, y: -115.5}
+      - {x: 445, y: -93.5}
+      - {x: 442, y: -88.5}
+      - {x: 441, y: -53.5}
+      - {x: 440, y: -29.5}
+      - {x: 445, y: -25.5}
+      - {x: 445, y: -12.5}
+      - {x: 437, y: -6.5}
+      - {x: 435, y: -5.5}
+      - {x: 430, y: -5.5}
+      - {x: 419, y: -13.5}
+      - {x: 420, y: -20.5}
+      - {x: 424, y: -27.5}
+      - {x: 415, y: -37.5}
+      - {x: 405, y: -61.5}
+      - {x: 405, y: -79.5}
+      - {x: 408, y: -83.5}
+      - {x: 416, y: -89.5}
+      - {x: 418, y: -109.5}
+      - {x: 405, y: -137.5}
+      - {x: 405, y: -141.5}
+      - {x: 414, y: -151.5}
+      - {x: 423, y: -154.5}
+      - {x: 438, y: -154.5}
+      - {x: 442, y: -148.5}
+      - {x: 429, y: -142.5}
+      - {x: 437, y: -124.5}
+    - - {x: 544, y: -128.5}
+      - {x: 545, y: -116.5}
+      - {x: 541, y: -95.5}
+      - {x: 538, y: -82.5}
+      - {x: 550, y: -91.5}
+      - {x: 552, y: -78.5}
+      - {x: 535, y: -57.5}
+      - {x: 534, y: -37.5}
+      - {x: 539, y: -28.5}
+      - {x: 541, y: -14.5}
+      - {x: 532, y: -4.5}
+      - {x: 526, y: -4.5}
+      - {x: 516, y: -13.5}
+      - {x: 517, y: -22.5}
+      - {x: 511, y: -39.5}
+      - {x: 504, y: -54.5}
+      - {x: 499, y: -73.5}
+      - {x: 500, y: -79.5}
+      - {x: 506, y: -86.5}
+      - {x: 507, y: -95.5}
+      - {x: 504, y: -105.5}
+      - {x: 495, y: -139.5}
+      - {x: 495, y: -143.5}
+      - {x: 496, y: -149.5}
+      - {x: 500, y: -152.5}
+      - {x: 517, y: -154.5}
+      - {x: 524, y: -150.5}
+      - {x: 516, y: -142.5}
+      - {x: 519, y: -128.5}
+      - {x: 525, y: -116.5}
+      - {x: 532, y: -150.5}
+      - {x: 534, y: -154.5}
+      - {x: 557, y: -154.5}
+      - {x: 560, y: -149.5}
+      - {x: 560, y: -142.5}
+      - {x: 552, y: -141.5}
+    - - {x: -121, y: 22.5}
+      - {x: -128, y: 45.5}
+      - {x: -126, y: 70.5}
+      - {x: -123, y: 75.5}
+      - {x: -114, y: 78.5}
+      - {x: -114, y: 92.5}
+      - {x: -119, y: 104.5}
+      - {x: -127, y: 112.5}
+      - {x: -125, y: 121.5}
+      - {x: -132, y: 134.5}
+      - {x: -132, y: 147.5}
+      - {x: -138, y: 156.5}
+      - {x: -145, y: 158.5}
+      - {x: -147, y: 158.5}
+      - {x: -157, y: 150.5}
+      - {x: -158, y: 136.5}
+      - {x: -151, y: 131.5}
+      - {x: -156, y: 92.5}
+      - {x: -159, y: 63.5}
+      - {x: -159, y: 47.5}
+      - {x: -154, y: 38.5}
+      - {x: -147, y: 26.5}
+      - {x: -158, y: 10.5}
+      - {x: -155, y: 3.5}
+      - {x: -131, y: 3.5}
+      - {x: -129, y: 5.5}
+      - {x: -129, y: 16.5}
+    - - {x: -417, y: 33.5}
+      - {x: -407, y: 18.5}
+      - {x: -412, y: 8.5}
+      - {x: -400, y: 4.5}
+      - {x: -390, y: 15.5}
+      - {x: -389, y: 18.5}
+      - {x: -389, y: 21.5}
+      - {x: -406, y: 49.5}
+      - {x: -412, y: 53.5}
+      - {x: -410, y: 74.5}
+      - {x: -406, y: 76.5}
+      - {x: -404, y: 84.5}
+      - {x: -409, y: 98.5}
+      - {x: -411, y: 117.5}
+      - {x: -418, y: 139.5}
+      - {x: -419, y: 148.5}
+      - {x: -430, y: 156.5}
+      - {x: -434, y: 156.5}
+      - {x: -444, y: 145.5}
+      - {x: -443, y: 135.5}
+      - {x: -438, y: 121.5}
+      - {x: -442, y: 110.5}
+      - {x: -449, y: 93.5}
+      - {x: -458, y: 80.5}
+      - {x: -457, y: 60.5}
+      - {x: -454, y: 59.5}
+      - {x: -452, y: 59.5}
+      - {x: -449, y: 62.5}
+      - {x: -449, y: 75.5}
+      - {x: -441, y: 80.5}
+      - {x: -452, y: 40.5}
+      - {x: -453, y: 23.5}
+      - {x: -465, y: 12.5}
+      - {x: -465, y: 7.5}
+      - {x: -460, y: 4.5}
+      - {x: -440, y: 4.5}
+      - {x: -434, y: 7.5}
+      - {x: -429, y: 42.5}
+      - {x: -421, y: 40.5}
+    - - {x: -311, y: 18.5}
+      - {x: -306, y: 4.5}
+      - {x: -305, y: 4.5}
+      - {x: -296, y: 11.5}
+      - {x: -293, y: 18.5}
+      - {x: -293, y: 30.5}
+      - {x: -294, y: 33.5}
+      - {x: -326, y: 57.5}
+      - {x: -320, y: 60.5}
+      - {x: -318, y: 68.5}
+      - {x: -310, y: 71.5}
+      - {x: -304, y: 84.5}
+      - {x: -314, y: 106.5}
+      - {x: -317, y: 121.5}
+      - {x: -322, y: 129.5}
+      - {x: -323, y: 147.5}
+      - {x: -328, y: 152.5}
+      - {x: -335, y: 155.5}
+      - {x: -339, y: 155.5}
+      - {x: -349, y: 145.5}
+      - {x: -348, y: 133.5}
+      - {x: -343, y: 118.5}
+      - {x: -348, y: 94.5}
+      - {x: -352, y: 88.5}
+      - {x: -362, y: 66.5}
+      - {x: -358, y: 59.5}
+      - {x: -354, y: 58.5}
+      - {x: -344, y: 75.5}
+      - {x: -352, y: 37.5}
+      - {x: -350, y: 24.5}
+      - {x: -360, y: 14.5}
+      - {x: -362, y: 11.5}
+      - {x: -362, y: 6.5}
+      - {x: -361, y: 5.5}
+      - {x: -355, y: 4.5}
+      - {x: -343, y: 4.5}
+      - {x: -335, y: 5.5}
+      - {x: -330, y: 8.5}
+      - {x: -330, y: 41.5}
+      - {x: -323, y: 32.5}
+    - - {x: -226, y: 43.5}
+      - {x: -221, y: 72.5}
+      - {x: -209, y: 80.5}
+      - {x: -209, y: 91.5}
+      - {x: -210, y: 96.5}
+      - {x: -222, y: 115.5}
+      - {x: -223, y: 127.5}
+      - {x: -227, y: 149.5}
+      - {x: -236, y: 158.5}
+      - {x: -243, y: 158.5}
+      - {x: -251, y: 152.5}
+      - {x: -253, y: 145.5}
+      - {x: -253, y: 138.5}
+      - {x: -247, y: 122.5}
+      - {x: -250, y: 95.5}
+      - {x: -250, y: 74.5}
+      - {x: -253, y: 44.5}
+      - {x: -245, y: 38.5}
+      - {x: -243, y: 19.5}
+      - {x: -253, y: 10.5}
+      - {x: -253, y: 6.5}
+      - {x: -250, y: 4.5}
+      - {x: -227, y: 4.5}
+      - {x: -212, y: 22.5}
+      - {x: -210, y: 29.5}
+      - {x: -222, y: 41.5}
+    - - {x: -516, y: 39.5}
+      - {x: -504, y: 15.5}
+      - {x: -511, y: 14.5}
+      - {x: -513, y: 7.5}
+      - {x: -511, y: 5.5}
+      - {x: -504, y: 5.5}
+      - {x: -489, y: 7.5}
+      - {x: -487, y: 11.5}
+      - {x: -494, y: 42.5}
+      - {x: -503, y: 63.5}
+      - {x: -493, y: 72.5}
+      - {x: -500, y: 108.5}
+      - {x: -505, y: 120.5}
+      - {x: -513, y: 133.5}
+      - {x: -511, y: 143.5}
+      - {x: -518, y: 151.5}
+      - {x: -531, y: 151.5}
+      - {x: -537, y: 144.5}
+      - {x: -536, y: 131.5}
+      - {x: -533, y: 122.5}
+      - {x: -538, y: 102.5}
+      - {x: -556, y: 76.5}
+      - {x: -549, y: 71.5}
+      - {x: -545, y: 59.5}
+      - {x: -538, y: 62.5}
+      - {x: -540, y: 75.5}
+      - {x: -535, y: 85.5}
+      - {x: -535, y: 78.5}
+      - {x: -530, y: 72.5}
+      - {x: -535, y: 61.5}
+      - {x: -543, y: 44.5}
+      - {x: -548, y: 27.5}
+      - {x: -561, y: 21.5}
+      - {x: -564, y: 18.5}
+      - {x: -564, y: 16.5}
+      - {x: -560, y: 10.5}
+      - {x: -551, y: 5.5}
+      - {x: -542, y: 5.5}
+      - {x: -535, y: 8.5}
+      - {x: -532, y: 20.5}
+      - {x: -523, y: 38.5}
+      - {x: -518, y: 49.5}
+    - - {x: -28, y: 77.5}
+      - {x: -23, y: 76.5}
+      - {x: -19, y: 82.5}
+      - {x: -19, y: 92.5}
+      - {x: -23, y: 106.5}
+      - {x: -37, y: 148.5}
+      - {x: -43, y: 156.5}
+      - {x: -45, y: 157.5}
+      - {x: -55, y: 157.5}
+      - {x: -65, y: 145.5}
+      - {x: -58, y: 131.5}
+      - {x: -56, y: 112.5}
+      - {x: -64, y: 84.5}
+      - {x: -68, y: 77.5}
+      - {x: -69, y: 73.5}
+      - {x: -66, y: 60.5}
+      - {x: -69, y: 41.5}
+      - {x: -69, y: 22.5}
+      - {x: -78, y: 17.5}
+      - {x: -78, y: 13.5}
+      - {x: -70, y: 8.5}
+      - {x: -54, y: 8.5}
+      - {x: -51, y: 11.5}
+      - {x: -47, y: 32.5}
+      - {x: -45, y: 36.5}
+      - {x: -39, y: 16.5}
+      - {x: -47, y: 10.5}
+      - {x: -46, y: 7.5}
+      - {x: -42, y: 5.5}
+      - {x: -23, y: 5.5}
+      - {x: -20, y: 7.5}
+      - {x: -21, y: 42.5}
+      - {x: -27, y: 61.5}
+    - - {x: 82, y: 39.5}
+      - {x: 69, y: 66.5}
+      - {x: 67, y: 76.5}
+      - {x: 73, y: 75.5}
+      - {x: 76, y: 80.5}
+      - {x: 76, y: 91.5}
+      - {x: 72, y: 108.5}
+      - {x: 59, y: 139.5}
+      - {x: 60, y: 154.5}
+      - {x: 49, y: 157.5}
+      - {x: 40, y: 157.5}
+      - {x: 34, y: 150.5}
+      - {x: 33, y: 136.5}
+      - {x: 40, y: 130.5}
+      - {x: 38, y: 99.5}
+      - {x: 26, y: 89.5}
+      - {x: 20, y: 73.5}
+      - {x: 26, y: 70.5}
+      - {x: 29, y: 69.5}
+      - {x: 37, y: 76.5}
+      - {x: 24, y: 42.5}
+      - {x: 20, y: 28.5}
+      - {x: 6, y: 25.5}
+      - {x: 6, y: 18.5}
+      - {x: 20, y: 7.5}
+      - {x: 27, y: 8.5}
+      - {x: 49, y: 42.5}
+      - {x: 57, y: 40.5}
+      - {x: 66, y: 16.5}
+      - {x: 58, y: 12.5}
+      - {x: 57, y: 8.5}
+      - {x: 61, y: 6.5}
+      - {x: 74, y: 6.5}
+      - {x: 80, y: 7.5}
+      - {x: 82, y: 8.5}
+    - - {x: 171, y: 20.5}
+      - {x: 166, y: 8.5}
+      - {x: 175, y: 6.5}
+      - {x: 180, y: 6.5}
+      - {x: 186, y: 12.5}
+      - {x: 186, y: 25.5}
+      - {x: 185, y: 31.5}
+      - {x: 182, y: 39.5}
+      - {x: 171, y: 47.5}
+      - {x: 163, y: 73.5}
+      - {x: 173, y: 79.5}
+      - {x: 172, y: 89.5}
+      - {x: 166, y: 110.5}
+      - {x: 158, y: 124.5}
+      - {x: 152, y: 134.5}
+      - {x: 154, y: 148.5}
+      - {x: 148, y: 156.5}
+      - {x: 146, y: 157.5}
+      - {x: 136, y: 157.5}
+      - {x: 126, y: 144.5}
+      - {x: 131, y: 134.5}
+      - {x: 134, y: 108.5}
+      - {x: 127, y: 86.5}
+      - {x: 119, y: 78.5}
+      - {x: 122, y: 69.5}
+      - {x: 126, y: 70.5}
+      - {x: 130, y: 73.5}
+      - {x: 122, y: 44.5}
+      - {x: 122, y: 23.5}
+      - {x: 111, y: 14.5}
+      - {x: 111, y: 9.5}
+      - {x: 119, y: 6.5}
+      - {x: 134, y: 6.5}
+      - {x: 138, y: 10.5}
+      - {x: 146, y: 56.5}
+      - {x: 148, y: 45.5}
+      - {x: 164, y: 26.5}
+    - - {x: 244, y: 40.5}
+      - {x: 263, y: 23.5}
+      - {x: 269, y: 16.5}
+      - {x: 270, y: 9.5}
+      - {x: 272, y: 8.5}
+      - {x: 276, y: 7.5}
+      - {x: 283, y: 14.5}
+      - {x: 283, y: 27.5}
+      - {x: 277, y: 42.5}
+      - {x: 262, y: 54.5}
+      - {x: 254, y: 55.5}
+      - {x: 255, y: 70.5}
+      - {x: 263, y: 75.5}
+      - {x: 268, y: 83.5}
+      - {x: 262, y: 107.5}
+      - {x: 248, y: 138.5}
+      - {x: 251, y: 148.5}
+      - {x: 246, y: 156.5}
+      - {x: 230, y: 156.5}
+      - {x: 225, y: 150.5}
+      - {x: 224, y: 136.5}
+      - {x: 231, y: 129.5}
+      - {x: 228, y: 90.5}
+      - {x: 221, y: 77.5}
+      - {x: 221, y: 71.5}
+      - {x: 220, y: 55.5}
+      - {x: 220, y: 18.5}
+      - {x: 213, y: 13.5}
+      - {x: 213, y: 9.5}
+      - {x: 216, y: 7.5}
+      - {x: 238, y: 7.5}
+      - {x: 241, y: 9.5}
+      - {x: 241, y: 28.5}
+      - {x: 239, y: 46.5}
+    - - {x: 360, y: 36.5}
+      - {x: 342, y: 61.5}
+      - {x: 346, y: 70.5}
+      - {x: 353, y: 78.5}
+      - {x: 357, y: 77.5}
+      - {x: 362, y: 84.5}
+      - {x: 363, y: 93.5}
+      - {x: 351, y: 124.5}
+      - {x: 343, y: 134.5}
+      - {x: 345, y: 147.5}
+      - {x: 338, y: 157.5}
+      - {x: 326, y: 157.5}
+      - {x: 319, y: 148.5}
+      - {x: 319, y: 139.5}
+      - {x: 326, y: 123.5}
+      - {x: 321, y: 51.5}
+      - {x: 325, y: 39.5}
+      - {x: 331, y: 17.5}
+      - {x: 324, y: 15.5}
+      - {x: 321, y: 9.5}
+      - {x: 324, y: 7.5}
+      - {x: 349, y: 7.5}
+      - {x: 362, y: 18.5}
+      - {x: 364, y: 21.5}
+      - {x: 364, y: 27.5}
+    - - {x: 446, y: 39.5}
+      - {x: 441, y: 61.5}
+      - {x: 445, y: 79.5}
+      - {x: 450, y: 79.5}
+      - {x: 455, y: 84.5}
+      - {x: 455, y: 95.5}
+      - {x: 451, y: 110.5}
+      - {x: 442, y: 128.5}
+      - {x: 440, y: 148.5}
+      - {x: 436, y: 157.5}
+      - {x: 422, y: 157.5}
+      - {x: 415, y: 150.5}
+      - {x: 414, y: 136.5}
+      - {x: 421, y: 127.5}
+      - {x: 421, y: 108.5}
+      - {x: 417, y: 74.5}
+      - {x: 414, y: 59.5}
+      - {x: 414, y: 51.5}
+      - {x: 426, y: 30.5}
+      - {x: 422, y: 17.5}
+      - {x: 418, y: 10.5}
+      - {x: 422, y: 8.5}
+      - {x: 441, y: 8.5}
+      - {x: 454, y: 19.5}
+      - {x: 455, y: 21.5}
+      - {x: 455, y: 25.5}
+    - - {x: 535, y: 17.5}
+      - {x: 529, y: 12.5}
+      - {x: 530, y: 8.5}
+      - {x: 554, y: 10.5}
+      - {x: 557, y: 15.5}
+      - {x: 557, y: 20.5}
+      - {x: 550, y: 50.5}
+      - {x: 543, y: 72.5}
+      - {x: 550, y: 80.5}
+      - {x: 551, y: 94.5}
+      - {x: 546, y: 110.5}
+      - {x: 540, y: 126.5}
+      - {x: 535, y: 133.5}
+      - {x: 538, y: 148.5}
+      - {x: 530, y: 156.5}
+      - {x: 519, y: 156.5}
+      - {x: 510, y: 152.5}
+      - {x: 510, y: 136.5}
+      - {x: 515, y: 131.5}
+      - {x: 516, y: 104.5}
+      - {x: 500, y: 85.5}
+      - {x: 499, y: 77.5}
+      - {x: 502, y: 74.5}
+      - {x: 514, y: 72.5}
+      - {x: 507, y: 62.5}
+      - {x: 504, y: 44.5}
+      - {x: 500, y: 19.5}
+      - {x: 493, y: 19.5}
+      - {x: 490, y: 16.5}
+      - {x: 490, y: 13.5}
+      - {x: 496, y: 8.5}
+      - {x: 518, y: 8.5}
+      - {x: 520, y: 11.5}
+      - {x: 526, y: 36.5}
+      - {x: 528, y: 46.5}
+    - - {x: 514, y: 81.5}
+      - {x: 514, y: 83.5}
+      - {x: 516, y: 80.5}
+      - {x: 515, y: 81.5}
+    - - {x: 349, y: 217.5}
+      - {x: 349, y: 233.5}
+      - {x: 349, y: 225.5}
+      - {x: 357, y: 222.5}
+      - {x: 361, y: 226.5}
+      - {x: 362, y: 234.5}
+      - {x: 362, y: 257.5}
+      - {x: 354, y: 284.5}
+      - {x: 346, y: 289.5}
+      - {x: 346, y: 302.5}
+      - {x: 340, y: 312.5}
+      - {x: 336, y: 313.5}
+      - {x: 331, y: 313.5}
+      - {x: 327, y: 311.5}
+      - {x: 322, y: 306.5}
+      - {x: 323, y: 288.5}
+      - {x: 315, y: 282.5}
+      - {x: 309, y: 260.5}
+      - {x: 309, y: 237.5}
+      - {x: 307, y: 224.5}
+      - {x: 307, y: 218.5}
+      - {x: 310, y: 216.5}
+      - {x: 317, y: 223.5}
+      - {x: 317, y: 207.5}
+      - {x: 320, y: 194.5}
+      - {x: 325, y: 170.5}
+      - {x: 324, y: 164.5}
+      - {x: 332, y: 160.5}
+      - {x: 343, y: 160.5}
+      - {x: 350, y: 163.5}
+      - {x: 349, y: 178.5}
+      - {x: 350, y: 184.5}
+      - {x: 352, y: 201.5}
+    - - {x: 255, y: 218.5}
+      - {x: 261, y: 228.5}
+      - {x: 264, y: 249.5}
+      - {x: 264, y: 256.5}
+      - {x: 259, y: 283.5}
+      - {x: 250, y: 292.5}
+      - {x: 250, y: 303.5}
+      - {x: 246, y: 313.5}
+      - {x: 230, y: 313.5}
+      - {x: 227, y: 307.5}
+      - {x: 227, y: 293.5}
+      - {x: 224, y: 285.5}
+      - {x: 218, y: 278.5}
+      - {x: 213, y: 246.5}
+      - {x: 213, y: 211.5}
+      - {x: 216, y: 208.5}
+      - {x: 220, y: 206.5}
+      - {x: 223, y: 216.5}
+      - {x: 223, y: 198.5}
+      - {x: 227, y: 170.5}
+      - {x: 230, y: 161.5}
+      - {x: 238, y: 161.5}
+      - {x: 242, y: 162.5}
+      - {x: 253, y: 195.5}
+      - {x: 256, y: 211.5}
+    - - {x: 447, y: 246.5}
+      - {x: 449, y: 230.5}
+      - {x: 453, y: 225.5}
+      - {x: 455, y: 225.5}
+      - {x: 458, y: 229.5}
+      - {x: 458, y: 250.5}
+      - {x: 456, y: 264.5}
+      - {x: 451, y: 282.5}
+      - {x: 445, y: 287.5}
+      - {x: 440, y: 292.5}
+      - {x: 442, y: 304.5}
+      - {x: 434, y: 313.5}
+      - {x: 423, y: 313.5}
+      - {x: 418, y: 307.5}
+      - {x: 418, y: 293.5}
+      - {x: 412, y: 282.5}
+      - {x: 404, y: 264.5}
+      - {x: 404, y: 242.5}
+      - {x: 406, y: 223.5}
+      - {x: 412, y: 220.5}
+      - {x: 412, y: 201.5}
+      - {x: 422, y: 167.5}
+      - {x: 427, y: 162.5}
+      - {x: 433, y: 161.5}
+      - {x: 440, y: 161.5}
+      - {x: 442, y: 165.5}
+      - {x: 448, y: 189.5}
+      - {x: 446, y: 207.5}
+    - - {x: -123, y: 243.5}
+      - {x: -120, y: 249.5}
+      - {x: -119, y: 255.5}
+      - {x: -119, y: 265.5}
+      - {x: -123, y: 281.5}
+      - {x: -128, y: 285.5}
+      - {x: -133, y: 291.5}
+      - {x: -133, y: 310.5}
+      - {x: -140, y: 313.5}
+      - {x: -149, y: 313.5}
+      - {x: -156, y: 307.5}
+      - {x: -155, y: 293.5}
+      - {x: -151, y: 290.5}
+      - {x: -161, y: 283.5}
+      - {x: -163, y: 277.5}
+      - {x: -167, y: 257.5}
+      - {x: -167, y: 221.5}
+      - {x: -162, y: 217.5}
+      - {x: -162, y: 189.5}
+      - {x: -160, y: 168.5}
+      - {x: -158, y: 163.5}
+      - {x: -147, y: 163.5}
+      - {x: -138, y: 175.5}
+      - {x: -105.37515, y: 204.00543}
+      - {x: -128, y: 236.5}
+    - - {x: -510, y: 226.5}
+      - {x: -504, y: 229.5}
+      - {x: -503, y: 241.5}
+      - {x: -503, y: 254.5}
+      - {x: -505, y: 267.5}
+      - {x: -506, y: 281.5}
+      - {x: -512, y: 303.5}
+      - {x: -519, y: 313.5}
+      - {x: -533, y: 313.5}
+      - {x: -538, y: 307.5}
+      - {x: -537, y: 293.5}
+      - {x: -547, y: 276.5}
+      - {x: -553, y: 255.5}
+      - {x: -553, y: 238.5}
+      - {x: -551, y: 222.5}
+      - {x: -549, y: 216.5}
+      - {x: -544, y: 217.5}
+      - {x: -542, y: 219.5}
+      - {x: -542, y: 231.5}
+      - {x: -540, y: 231.5}
+      - {x: -540, y: 247.5}
+      - {x: -540, y: 229.5}
+      - {x: -542, y: 229.5}
+      - {x: -542, y: 203.5}
+      - {x: -538, y: 178.5}
+      - {x: -534, y: 170.5}
+      - {x: -529, y: 164.5}
+      - {x: -523, y: 164.5}
+      - {x: -519, y: 170.5}
+      - {x: -515, y: 199.5}
+      - {x: -514, y: 210.5}
+    - - {x: -33, y: 237.5}
+      - {x: -24, y: 252.5}
+      - {x: -24, y: 273.5}
+      - {x: -27, y: 280.5}
+      - {x: -37, y: 302.5}
+      - {x: -41, y: 311.5}
+      - {x: -50, y: 313.5}
+      - {x: -56, y: 311.5}
+      - {x: -60, y: 306.5}
+      - {x: -58, y: 293.5}
+      - {x: -64, y: 286.5}
+      - {x: -68, y: 277.5}
+      - {x: -72, y: 264.5}
+      - {x: -72, y: 220.5}
+      - {x: -69, y: 216.5}
+      - {x: -65, y: 218.5}
+      - {x: -65, y: 207.5}
+      - {x: -64, y: 190.5}
+      - {x: -62, y: 170.5}
+      - {x: -59, y: 165.5}
+      - {x: -56, y: 164.5}
+      - {x: -49, y: 164.5}
+      - {x: -46, y: 169.5}
+      - {x: -37, y: 204.5}
+      - {x: -35, y: 220.5}
+    - - {x: 165, y: 245.5}
+      - {x: 167, y: 255.5}
+      - {x: 167, y: 259.5}
+      - {x: 165, y: 269.5}
+      - {x: 164, y: 278.5}
+      - {x: 156, y: 292.5}
+      - {x: 153, y: 311.5}
+      - {x: 145, y: 313.5}
+      - {x: 140, y: 313.5}
+      - {x: 136, y: 311.5}
+      - {x: 131, y: 305.5}
+      - {x: 133, y: 287.5}
+      - {x: 125, y: 282.5}
+      - {x: 119, y: 255.5}
+      - {x: 119, y: 230.5}
+      - {x: 120, y: 220.5}
+      - {x: 127, y: 211.5}
+      - {x: 131, y: 190.5}
+      - {x: 131, y: 176.5}
+      - {x: 135, y: 164.5}
+      - {x: 145, y: 164.5}
+      - {x: 149, y: 174.5}
+      - {x: 150, y: 190.5}
+      - {x: 156, y: 203.5}
+    - - {x: -412, y: 225.5}
+      - {x: -408, y: 229.5}
+      - {x: -407, y: 248.5}
+      - {x: -407, y: 260.5}
+      - {x: -410, y: 282.5}
+      - {x: -418, y: 292.5}
+      - {x: -419, y: 301.5}
+      - {x: -423, y: 311.5}
+      - {x: -432, y: 312.5}
+      - {x: -438, y: 312.5}
+      - {x: -441, y: 304.5}
+      - {x: -441, y: 297.5}
+      - {x: -445, y: 285.5}
+      - {x: -451, y: 278.5}
+      - {x: -457, y: 259.5}
+      - {x: -457, y: 215.5}
+      - {x: -455, y: 213.5}
+      - {x: -448, y: 208.5}
+      - {x: -443, y: 182.5}
+      - {x: -437, y: 166.5}
+      - {x: -433, y: 165.5}
+      - {x: -426, y: 165.5}
+      - {x: -423, y: 173.5}
+      - {x: -418, y: 203.5}
+      - {x: -418, y: 227.5}
+    - - {x: -311, y: 246.5}
+      - {x: -311, y: 265.5}
+      - {x: -314, y: 281.5}
+      - {x: -324, y: 292.5}
+      - {x: -323, y: 303.5}
+      - {x: -329, y: 312.5}
+      - {x: -336, y: 312.5}
+      - {x: -341, y: 311.5}
+      - {x: -347, y: 307.5}
+      - {x: -347, y: 293.5}
+      - {x: -352, y: 285.5}
+      - {x: -361, y: 258.5}
+      - {x: -361, y: 236.5}
+      - {x: -359, y: 216.5}
+      - {x: -353, y: 214.5}
+      - {x: -353, y: 201.5}
+      - {x: -348, y: 175.5}
+      - {x: -340, y: 165.5}
+      - {x: -332, y: 165.5}
+      - {x: -326, y: 166.5}
+      - {x: -324, y: 195.5}
+      - {x: -323, y: 215.5}
+      - {x: -312, y: 230.5}
+    - - {x: -222, y: 229.5}
+      - {x: -215, y: 251.5}
+      - {x: -215, y: 265.5}
+      - {x: -221, y: 284.5}
+      - {x: -224, y: 286.5}
+      - {x: -227, y: 302.5}
+      - {x: -233, y: 312.5}
+      - {x: -240, y: 313.5}
+      - {x: -247, y: 312.5}
+      - {x: -251, y: 306.5}
+      - {x: -250, y: 297.5}
+      - {x: -254, y: 285.5}
+      - {x: -258, y: 280.5}
+      - {x: -261, y: 273.5}
+      - {x: -264, y: 255.5}
+      - {x: -264, y: 222.5}
+      - {x: -261, y: 217.5}
+      - {x: -257, y: 221.5}
+      - {x: -260, y: 200.5}
+      - {x: -258, y: 168.5}
+      - {x: -256, y: 165.5}
+      - {x: -244, y: 165.5}
+      - {x: -234, y: 169.5}
+      - {x: -227, y: 194.5}
+      - {x: -226, y: 218.5}
+    - - {x: 543, y: 232.5}
+      - {x: 546, y: 227.5}
+      - {x: 553, y: 231.5}
+      - {x: 553, y: 250.5}
+      - {x: 548, y: 277.5}
+      - {x: 543, y: 285.5}
+      - {x: 540, y: 302.5}
+      - {x: 531, y: 314.5}
+      - {x: 519, y: 314.5}
+      - {x: 510, y: 305.5}
+      - {x: 511, y: 286.5}
+      - {x: 501, y: 271.5}
+      - {x: 499, y: 263.5}
+      - {x: 499, y: 237.5}
+      - {x: 500, y: 225.5}
+      - {x: 505, y: 219.5}
+      - {x: 507, y: 220.5}
+      - {x: 510, y: 223.5}
+      - {x: 510, y: 225.5}
+      - {x: 509, y: 226.5}
+      - {x: 509, y: 232.5}
+      - {x: 509, y: 227.5}
+      - {x: 510, y: 226.5}
+      - {x: 510, y: 210.5}
+      - {x: 509, y: 208.5}
+      - {x: 511, y: 201.5}
+      - {x: 516, y: 180.5}
+      - {x: 519, y: 168.5}
+      - {x: 525, y: 165.5}
+      - {x: 535, y: 165.5}
+      - {x: 541, y: 208.5}
+      - {x: 540, y: 242.5}
+    - - {x: 72, y: 251.5}
+      - {x: 72, y: 279.5}
+      - {x: 64, y: 286.5}
+      - {x: 62, y: 304.5}
+      - {x: 54, y: 313.5}
+      - {x: 43, y: 313.5}
+      - {x: 41, y: 312.5}
+      - {x: 35, y: 305.5}
+      - {x: 40, y: 290.5}
+      - {x: 32, y: 283.5}
+      - {x: 28, y: 278.5}
+      - {x: 26, y: 264.5}
+      - {x: 26, y: 230.5}
+      - {x: 28, y: 224.5}
+      - {x: 33, y: 206.5}
+      - {x: 38, y: 168.5}
+      - {x: 41, y: 166.5}
+      - {x: 48, y: 166.5}
+      - {x: 54, y: 170.5}
+      - {x: 56, y: 196.5}
+      - {x: 60, y: 202.5}
+      - {x: 65, y: 240.5}
+    - - {x: -350, y: 249.5}
+      - {x: -351, y: 249.5}
+      - {x: -352, y: 239.5}
+      - {x: -350, y: 236.5}
+      - {x: -349, y: 237.5}
+    - - {x: 417, y: 257.5}
+      - {x: 416, y: 259.5}
+      - {x: 414, y: 253.5}
+      - {x: 415, y: 251.5}
+      - {x: 416, y: 252.5}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
